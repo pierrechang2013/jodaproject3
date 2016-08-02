@@ -1,0 +1,30 @@
+package com.decarie.joda;
+
+import static org.junit.Assert.fail;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class TestDateTest {
+	
+	 TestDate td = null;
+
+
+	@Before
+	public void setUp() throws Exception {
+		td = new TestDate();
+
+	}
+
+	
+	//public void testTestDate() {
+		//fail("Not yet implemented");
+	//}
+
+	@Test
+	public void testTestOperation() {
+		//fail("Not yet implemented");
+		td.TestOperation();
+	}
+
+}

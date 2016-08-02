@@ -1,0 +1,21 @@
+package com.decarie.joda;
+
+//import org.joda.time.DateTime;
+
+public class TestDate {
+
+	public TestDate() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public void TestOperation(){
+		/*DateTime dt = new DateTime();
+		int month = dt.getMonthOfYear();
+		DateTime year2000 = dt.withYear(2000);
+		DateTime twoHoursLater = dt.plusHours(2);
+		System.out.println(year2000.getYear());
+		System.out.println(twoHoursLater.getHourOfDay());*/
+		
+	}
+
+}
