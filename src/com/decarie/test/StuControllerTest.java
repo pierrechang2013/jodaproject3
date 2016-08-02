@@ -24,6 +24,8 @@ public class StuControllerTest {
         mStuDao = mock(StudentDAO.class);
         mController.setStudentDAO(mStuDao);
     }
+    
+    
 
     @Test
     public void testGetStudentInfo() {
